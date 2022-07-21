@@ -11,5 +11,3 @@ def three_diagonal_check
       end
     end
   end
-
-

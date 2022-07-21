@@ -1,5 +1,4 @@
 # frozen_string_literal: true
-
 def player_choice_enter(player, symbol)
   puts "#{$player} enter (0..2)  by a space"
   input = gets.chomp

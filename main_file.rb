@@ -16,7 +16,6 @@ class Main_class
   puts 'Wellcome to our game'
   $turn_count = 1
   $winner = 0
-
   def initialize
     puts 'Enter First Player Name'
     $player_one_name = gets.chomp.to_i
